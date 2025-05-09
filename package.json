@@ -1,0 +1,49 @@
+{
+  "name": "ics22089-crowdfunding-app",
+  "version": "0.1.0",
+  "homepage": "https://nikts27.github.io/ics22089-crowdfunding-app",
+  "private": true,
+  "dependencies": {
+    "blockchain-crowdfunding": "file:",
+    "bootstrap": "^5.3.3",
+    "cra-template": "1.2.0",
+    "ics22089-crowdfunding-app": "file:",
+    "ics22089-Crowdfunding-App": "file:",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1",
+    "web3": "^4.16.0"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "gh-pages": "^6.3.0",
+    "web-vitals": "^4.2.4"
+  }
+}
