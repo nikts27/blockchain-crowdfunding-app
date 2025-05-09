@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/blockchain-crowdfunding-app/static/css/main.7efde049.css",
-    "main.js": "/blockchain-crowdfunding-app/static/js/main.feb54030.js",
-    "index.html": "/blockchain-crowdfunding-app/index.html",
-    "main.7efde049.css.map": "/blockchain-crowdfunding-app/static/css/main.7efde049.css.map",
-    "main.feb54030.js.map": "/blockchain-crowdfunding-app/static/js/main.feb54030.js.map"
+    "main.css": "/nikts27.github.io/ics22089-Crowdfunding-App/static/css/main.d138fb8e.css",
+    "main.js": "/nikts27.github.io/ics22089-Crowdfunding-App/static/js/main.7d9eec41.js",
+    "static/js/488.d4bce837.chunk.js": "/nikts27.github.io/ics22089-Crowdfunding-App/static/js/488.d4bce837.chunk.js",
+    "index.html": "/nikts27.github.io/ics22089-Crowdfunding-App/index.html",
+    "main.d138fb8e.css.map": "/nikts27.github.io/ics22089-Crowdfunding-App/static/css/main.d138fb8e.css.map",
+    "main.7d9eec41.js.map": "/nikts27.github.io/ics22089-Crowdfunding-App/static/js/main.7d9eec41.js.map",
+    "488.d4bce837.chunk.js.map": "/nikts27.github.io/ics22089-Crowdfunding-App/static/js/488.d4bce837.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7efde049.css",
-    "static/js/main.feb54030.js"
+    "static/css/main.d138fb8e.css",
+    "static/js/main.7d9eec41.js"
   ]
 }
